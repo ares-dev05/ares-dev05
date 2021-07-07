@@ -12,4 +12,4 @@ My Stacks
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-Here is my [eMail](mailto:godknight122@gmail.com?Subject=Hello!) and [Skype](live:.cid.1a7a7e49af61c).
+Here is my [eMail](mailto:godknight122@gmail.com?Subject=Hello!) and [Skype : live:.cid.1a7a7e49af61c]().
