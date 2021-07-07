@@ -1,4 +1,4 @@
-# GOLD LION
+# Ares
 
 ![](https://github.com/webdevsmart/webdevsmart/blob/main/fullstack.png)
 
