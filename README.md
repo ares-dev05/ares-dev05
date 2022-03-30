@@ -46,4 +46,4 @@ My Stacks
 
 
 
-Here is my [eMail](mailto:godknight122@gmail.com?Subject=Hello!) and [Skype : live:.cid.1a7a7e49af61c]().
+Here is my [eMail](mailto:miuratoki1995@gmail.com?Subject=Hello!) and [Skype : live:.cid.1a7a7e49af61c]().
