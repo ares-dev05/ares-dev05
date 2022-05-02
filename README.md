@@ -44,6 +44,3 @@ My Stacks
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
-
-
-Here is my [eMail](mailto:miuratoki1995@gmail.com?Subject=Hello!) and [Skype : live:.cid.1a7a7e49af61c]().
