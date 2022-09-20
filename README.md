@@ -1,4 +1,4 @@
-# Senior blockcahin full-stack developer
+# Senior blockchain full-stack developer
 
 ![](https://github.com/webdevsmart/webdevsmart/blob/main/fullstack.png)
 
