@@ -1,4 +1,4 @@
-# Full Stack Developer | React.js |Node.js |Python | Web3.js
+# Full Stack Developer | React.js | Node.js | Python | Web3.js
 
 ![](https://github.com/webdevsmart/webdevsmart/blob/main/fullstack.png)
 
