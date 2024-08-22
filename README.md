@@ -1,4 +1,4 @@
-# Full Stack Developer | React.js | Node.js | Python | Web3.js | Solidity | AI
+# Full Stack Developer | React/Vue | Node/Express/Nest | Python | Web3/Solidity | AI
 
 ![](https://github.com/webdevsmart/webdevsmart/blob/main/fullstack.png)
 
